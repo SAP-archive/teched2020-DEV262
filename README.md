@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# DEV262 - Full Lifecycle API Platform
 
 ## Description
 
