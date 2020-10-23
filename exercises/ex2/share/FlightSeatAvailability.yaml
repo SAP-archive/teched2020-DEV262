@@ -1,0 +1,68 @@
+swagger: '2.0'
+info:
+  version: '1'
+  title: Check flight seat availability API
+  description: Flight Demo API showcasing REST to RFC conversion
+  x-targetEndpoint: 'Target API URL provided in exercise'
+host: 'Host Alias copied from the API Proxy'
+basePath: /bestrun/flights/seats
+produces:
+  - application/json
+consumes:
+  - application/json
+schemes:
+  - https
+paths:
+  /checkavailability:
+    get:
+      parameters:
+        - description: API Key
+          in: header
+          name: apikey
+          required: true
+          type: string
+        - description: Airline ID like `LH`
+          in: header
+          name: airlineid
+          required: true
+          type: string
+        - description: Connection ID like `0400`
+          in: header
+          name: connectionId
+          required: true
+          type: string
+        - description: Flight Date like `2016-06-18`
+          in: header
+          name: flightdate
+          required: true
+          type: string
+      responses:
+        '200':
+          description: OK - Everything worked as expected
+          schema:
+            type: object
+            properties:
+              SXIDEMO_AIRL_FLIGHT_CHECKAVAIL.Response:
+                type: object
+                properties:
+                  FLIGHT_AVAILABILITY:
+                    type: object
+                    properties:
+                      ECONOMAX:
+                        type: string
+                        example: 280
+                      ECONOFREE:
+                        type: string
+                        example: 290
+                      BUSINMAX:
+                        type: string
+                        example: 22
+                      BUSINFREE:
+                        type: string
+                        example: 22
+                      FIRSTMAX:
+                        type: string
+                        example: 10
+                      FIRSTFREE:
+                        type: string
+                        example: 10

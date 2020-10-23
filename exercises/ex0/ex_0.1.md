@@ -11,5 +11,5 @@ After completing the exercise, you will have the Integration Suite Capabilities 
 
 You have now sucessfully registered for SAP Cloud Platform trial account, enabled SAP Cloud Platform Integration suite capabalities
 
-Continue to - [Exercise 0.2 - Exercise 0.2 Description](../ex2/README.md)
+Continue to - [Exercise 0.2 - Configure Key Value Maps and Policy Template](../ex0/0.2_Configure_Key_Value_Maps_and_Policy.pdf)
 
