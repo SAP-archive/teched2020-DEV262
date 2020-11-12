@@ -1,6 +1,10 @@
 # Exercise 0.1 -  Set up Integration Suite Trail
 
 In this exercise, you will provision the Capabilities of SAP Cloud Platform Integration Suite.
+
+In Step 4: Provision the capabilities<br/> 
+Please select three capablities 1) Design Develop & Operate Integration Scenario 2) Design Develpo & Manage APIs 3) Extend Non-SAP connectivity 
+
 ### Please Start the exercise [here](https://developers.sap.com/tutorials/cp-starter-isuite-onboard-subscribe.html)
 
 After completing the exercise, you will have the Integration Suite Capabilities enabled.The below picture depicts the enabled Capabilities. 
