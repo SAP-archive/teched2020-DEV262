@@ -20,23 +20,25 @@ The requirements to follow the exercises in this repository are...
 ## Exercises
 
 - [Getting Started](exercises/ex0/)
-    - [Exercise 0.1 - Set up Integration Suite Trail](exercises/ex0/ex_0.1.md#exercise-01-sub-exercise-1)
+    - [Exercise 0.1 - Set up Integration Suite Trial](exercises/ex0/ex_0.1.md#exercise-01-sub-exercise-1)
     - [Exercise 0.2 - Configure Key Value Maps and Policy Template](exercises/ex0/0.2_Configure_Key_Value_Maps_and_Policy.pdf)    
 - [Exercise 1 - Explore and Manage your Microservices](exercises/ex1/)
     - [Exercise 1.1 - Manage your microservice built using SAP Cloud Application Programming](exercises/ex1/1.1_Manage_your_microservice_built_using_SAP_Cloud_Application_Programming.pdf)
     - [Exercise 1.2 - Add Corporate Governance Policy](exercises/ex1/1.2_Add_Corporate_Governance_Policy.pdf)
 - [Exercise 2 - Explore and Manage APIs from SAP Cloud Platform Integration](exercises/ex2/)
-    - [Exercise 2.1 - Manage REST APIs from SAP CLoud Platform Integration](exercises/ex2/2.1_%20Manage_REST_APIs_from_SAP_CLoud_Platform_Integration.pdf)
+    - [Exercise 2.1 - Manage REST APIs from SAP Cloud Platform Integration](exercises/ex2/2.1_%20Manage_REST_APIs_from_SAP_CLoud_Platform_Integration.pdf)
     - [Exercise 2.2 - Add Policies to Securely Connect to Cloud Platform Integration API](exercises/ex2/2.2_Add_Policies_to_Securely_Connect_to_Cloud_Platform_Integration_API.pdf)
     - [Exercise 2.3 - Add Corporate Governance Policy](exercises/ex2/2.3_Add_Corporate_Governance_Policy.pdf)
 - [Exercise 3 - Discover, Explore and Manage APIs from Non-SAP CRM ](exercises/ex3d)
     - [Exercise 3.1 - Connect to non-SAP CRM System from SAP Cloud Platfrom Open Connector](exercises/ex3/3.1_Connect_to_non_SAP_CRM_System_from_SAP_Cloud_Platfrom_Open_Connector.pdf)
-    - [Exercise 3.2 - Add API Proider of type Open Connector](exercises/ex3/3.2_Add_API_Providers_of_type_Open_Connectors.pdf)
+    - [Exercise 3.2 - Add API Provider of type Open Connector](exercises/ex3/3.2_Add_API_Providers_of_type_Open_Connectors.pdf)
     - [Exercise 3.3 - Discover and Manage your non-SAP CRM API](exercises/ex3/3.3_Discover_and_Manage_your_non_SAP_CRM_API.pdf)
     - [Exercise 3.4 - Add Corporate Governance Policy](exercises/ex3/3.4_Add_your_corporate_governance_policy.pdf)
-- [Exercise 4 - Developer Portal COnfiguration](exercises/ex4/)
-    - [Exercise 4.1 - Publish your API Product](exercises/ex4/4.1_Publish_your_API_Product.pdf)
-
-
-## License
+- [Exercise 4 - Developer Portal Configuration](exercises/ex4/)
+    - [Exercise 4.1 - Publish your API Product](exercises/ex4/4.2_Customize_your_Developer_portal.pdf)
+    - [Exercise 4.2 - Customize your Developer portal ( Optional )](exercises/ex4/4.1_Publish_your_API_Product.pdf) 
+    - [Exercise 4.3 - Consuming your APIs from Developer Portal](exercises/ex4/4.3_Consuming_your_APIS_from_Developer_Portal.pdf)
+    
+ 
+ ## License
 Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
