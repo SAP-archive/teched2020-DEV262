@@ -35,8 +35,8 @@ The requirements to follow the exercises in this repository are...
     - [Exercise 3.3 - Discover and Manage your non-SAP CRM API](exercises/ex3/3.3_Discover_and_Manage_your_non_SAP_CRM_API.pdf)
     - [Exercise 3.4 - Add Corporate Governance Policy](exercises/ex3/3.4_Add_your_corporate_governance_policy.pdf)
 - [Exercise 4 - Developer Portal Configuration](exercises/ex4/)
-    - [Exercise 4.1 - Publish your API Product](exercises/ex4/4.2_Customize_your_Developer_portal.pdf)
-    - [Exercise 4.2 - Customize your Developer portal ( Optional )](exercises/ex4/4.1_Publish_your_API_Product.pdf) 
+    - [Exercise 4.1 - Publish your API Product](exercises/ex4/4.1_Publish_your_API_Product.pdf)
+    - [Exercise 4.2 - Customize your Developer portal ( Optional )](exercises/ex4/4.2_Customize_your_Developer_portal.pdf) 
     - [Exercise 4.3 - Consuming your APIs from Developer Portal](exercises/ex4/4.3_Consuming_your_APIS_from_Developer_Portal.pdf)
     
  
