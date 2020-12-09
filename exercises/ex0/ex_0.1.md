@@ -3,7 +3,7 @@
 In this exercise, you will provision the Capabilities of SAP Cloud Platform Integration Suite.
 
 In Step 4: Provision the capabilities<br/> 
-Please select three capablities 1) Design Develop & Operate Integration Scenario (also select check box 'Enable Developer Portal' 2) Design Develpo & Manage APIs 3) Extend Non-SAP connectivity 
+Please select three capablities<br/>  1) Design Develop & Operate Integration Scenario <br/>  2) Design Develpo & Manage APIs(also select check box 'Enable Developer Portal') <br/> 3) Extend Non-SAP connectivity 
 
 ### Please Start the exercise [here](https://developers.sap.com/tutorials/cp-starter-isuite-onboard-subscribe.html)
 
