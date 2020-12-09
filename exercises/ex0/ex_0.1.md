@@ -3,7 +3,7 @@
 In this exercise, you will provision the Capabilities of SAP Cloud Platform Integration Suite.
 
 In Step 4: Provision the capabilities<br/> 
-Please select three capablities 1) Design Develop & Operate Integration Scenario 2) Design Develpo & Manage APIs 3) Extend Non-SAP connectivity 
+Please select three capablities 1) Design Develop & Operate Integration Scenario (also select check box 'Enable Developer Portal' 2) Design Develpo & Manage APIs 3) Extend Non-SAP connectivity 
 
 ### Please Start the exercise [here](https://developers.sap.com/tutorials/cp-starter-isuite-onboard-subscribe.html)
 
@@ -17,3 +17,4 @@ You have now sucessfully registered for SAP Cloud Platform trial account, enable
 
 Continue to - [Exercise 0.2 - Configure Key Value Maps and Policy Template](../ex0/0.2_Configure_Key_Value_Maps_and_Policy.pdf)
 
+  
