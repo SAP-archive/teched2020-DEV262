@@ -1,5 +1,7 @@
 # DEV262 - Full Lifecycle API Platform
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-DEV262)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-DEV262)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session called DEV262 - Full Lifecycle API Platform 
